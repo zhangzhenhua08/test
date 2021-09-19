@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.mljr.autotest:api-common:1.0.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/apache-maven-3.6.1/repository/com/mljr/autotest/api-common/1.0.0-SNAPSHOT/api-common-1.0.0-20191016.101718-28.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/Downloads/apache-maven-3.6.1/repository/com/mljr/autotest/api-common/1.0.0-SNAPSHOT/api-common-1.0.0-20191016.101718-28-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Downloads/apache-maven-3.6.1/repository/com/mljr/autotest/api-common/1.0.0-SNAPSHOT/api-common-1.0.0-20191016.101718-28-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

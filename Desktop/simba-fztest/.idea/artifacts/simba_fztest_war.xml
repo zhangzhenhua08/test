@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="simba-fztest:war">
+    <output-path>$PROJECT_DIR$/simba-fztest/target</output-path>
+    <root id="archive" name="betaB.war">
+      <element id="artifact" artifact-name="simba-fztest:war exploded" />
+    </root>
+  </artifact>
+</component>

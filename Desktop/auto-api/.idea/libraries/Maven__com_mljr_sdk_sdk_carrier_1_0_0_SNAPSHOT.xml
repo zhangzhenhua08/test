@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.mljr.sdk:sdk-carrier:1.0.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/apache-maven-3.6.1/repository/com/mljr/sdk/sdk-carrier/1.0.0-SNAPSHOT/sdk-carrier-1.0.0-20191022.095411-67.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/Downloads/apache-maven-3.6.1/repository/com/mljr/sdk/sdk-carrier/1.0.0-SNAPSHOT/sdk-carrier-1.0.0-20191022.095411-67-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Downloads/apache-maven-3.6.1/repository/com/mljr/sdk/sdk-carrier/1.0.0-SNAPSHOT/sdk-carrier-1.0.0-20191022.095411-67-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

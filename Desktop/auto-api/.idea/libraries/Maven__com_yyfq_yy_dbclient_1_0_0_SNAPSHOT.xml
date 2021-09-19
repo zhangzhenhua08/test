@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.yyfq:yy-dbclient:1.0.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/apache-maven-3.6.1/repository/com/yyfq/yy-dbclient/1.0.0-SNAPSHOT/yy-dbclient-1.0.0-20160907.014211-5.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/Downloads/apache-maven-3.6.1/repository/com/yyfq/yy-dbclient/1.0.0-SNAPSHOT/yy-dbclient-1.0.0-20160907.014211-5-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Downloads/apache-maven-3.6.1/repository/com/yyfq/yy-dbclient/1.0.0-SNAPSHOT/yy-dbclient-1.0.0-20160907.014211-5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

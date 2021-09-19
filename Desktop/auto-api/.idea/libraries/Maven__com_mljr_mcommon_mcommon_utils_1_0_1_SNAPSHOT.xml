@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.mljr.mcommon:mcommon-utils:1.0.1-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/apache-maven-3.6.1/repository/com/mljr/mcommon/mcommon-utils/1.0.1-SNAPSHOT/mcommon-utils-1.0.1-20170822.100151-14.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/Downloads/apache-maven-3.6.1/repository/com/mljr/mcommon/mcommon-utils/1.0.1-SNAPSHOT/mcommon-utils-1.0.1-20170822.100151-14-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Downloads/apache-maven-3.6.1/repository/com/mljr/mcommon/mcommon-utils/1.0.1-SNAPSHOT/mcommon-utils-1.0.1-20170822.100151-14-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
